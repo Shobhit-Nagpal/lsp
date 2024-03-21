@@ -1,0 +1,11 @@
+[lsp]2024/03/22 03:07:09 main.go:16: Logger started!
+[lsp]2024/03/22 03:07:09 main.go:36: Received msg with method: initialize
+[lsp]2024/03/22 03:07:09 main.go:45: Connected to: Neovim 0.9.1
+[lsp]2024/03/22 03:07:09 main.go:51: Sent reply!
+[lsp]2024/03/22 03:07:09 main.go:36: Received msg with method: initialized
+[lsp]2024/03/22 03:07:09 main.go:36: Received msg with method: textDocument/didOpen
+[lsp]2024/03/22 03:07:09 main.go:59: Opened: file:///home/shobhit/repos/lsp/README.md
+[lsp]2024/03/22 03:07:12 main.go:36: Received msg with method: textDocument/didSave
+[lsp]2024/03/22 03:07:12 main.go:36: Received msg with method: textDocument/didSave
+[lsp]2024/03/22 03:07:13 main.go:36: Received msg with method: textDocument/didSave
+[lsp]2024/03/22 03:07:13 main.go:36: Received msg with method: shutdown
